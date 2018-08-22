@@ -1,2 +1,2 @@
-# JDA-8100-SPR18
+# JIA 8100 Excelerate
 Junior design project
